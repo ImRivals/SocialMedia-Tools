@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/ImRivals/SocialMedia-Tools">
-    <img src="images/socials.png" alt="Logo" width="80" height="80">
+    <img src="socials.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Social Media Archive</h3>
